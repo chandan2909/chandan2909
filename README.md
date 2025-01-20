@@ -1,16 +1,32 @@
-## Hi there 👋
+# Chandan Pathak
+**Welcome to my GitHub profile!**
 
-<!--
-**chandan2909/chandan2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I am a technocrat and an enthusiast for new technology. I am a go-getter, responsible, innovative, passionate, and committed learner. I’m passionate about what I do, and I love to help people.
+I like to learn about new things, technologies and how it works. I am determined to succeed, to improve myself and to expand on all of my skills and talents whenever the chance arises.
 
-Here are some ideas to get you started:
+**Skills:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming Languages: Java, HTML, CSS, JavaScript
+* Development Tools: VS Code, Android Studio
+* Core Competencies: Analytical Skills, Problem Solving
+
+<!---
+**Experience:**
+--->
+  
+
+**Contributions:**
+
+* I'm always open to contributing to interesting projects. Feel free to reach out!
+
+**Languages:**
+
+* English (fluent)
+* Hindi (native)
+
+
+
+<!---
+rudraofficial/rudraofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
