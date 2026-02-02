@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student of MCA in computer science and engineering with strong foundation in computer science fundamentals (C and Java). I am a highly motivated and results oriented person with passion to learn new things. I look forward to applying my skills and knowledge to a challenging and rewarding career in the tech industry. I believe I have the skills and experience to be a valuable asset to your team. I am available for an interview at your earliest convenience.
+I am a student of MCA in computer science and engineering with strong foundation in computer science fundamentals. I am a highly motivated and results oriented person with passion to learn new things. I look forward to applying my skills and knowledge to a challenging and rewarding career in the tech industry. I believe I have the skills and experience to be a valuable asset to your team. I am available for an interview at your earliest convenience.
 
 
 ## 🌐 Socials:
