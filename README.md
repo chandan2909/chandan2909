@@ -78,7 +78,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandan2909&theme=tokyonight&no-frame=true&margin-w=6&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chandan2909&theme=nord&no-frame=true&margin-w=8&row=1" alt="Trophies" />
 </p>
 
 ---
