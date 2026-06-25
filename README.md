@@ -18,7 +18,6 @@
 <a href="mailto:vijaypathakssa3@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=chandan2909&label=Profile+Views&color=00D9FF&style=for-the-badge" />
 
 </div>
 
