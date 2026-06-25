@@ -3,8 +3,9 @@
 <!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chandan%20Pathak&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CS%20Post%20Graduate&descAlignY=58&descSize=18" width="100%" />
 
+
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hey+there%2C+I'm+Chandan+Pathak!;Full-Stack+Web+Developer;Java+%26+Spring+Boot+Enthusiast;React+%26+Flutter+Builder;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Chandan+Pathak+%F0%9F%91%8B;Full-Stack+Web+Developer;Java+%26+Spring+Boot+Enthusiast;React+%26+Flutter+Builder;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
