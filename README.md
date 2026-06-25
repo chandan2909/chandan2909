@@ -111,6 +111,8 @@ currently:  Building full-stack web & mobile applications
 
 ## 🐍 Contribution Snake
 
+> _The snake eats each green square (contribution) from my GitHub activity heatmap — the more I commit, the more it eats!_
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandan2909/chandan2909/output/github-snake-dark.svg" />
@@ -119,13 +121,22 @@ currently:  Building full-stack web & mobile applications
   </picture>
 </div>
 
+<div align="center">
+
+| 🟩 Light squares | 🟦 Dark squares | ⬛ Empty squares |
+|:---:|:---:|:---:|
+| Low activity days | High activity days | No contributions |
+
+</div>
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <div align="center">
 
 <br/>
 
-<!-- Animated header banner -->
+<!-- Animated footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling&fontColor=fff" width="100%" />
 
 </div>
