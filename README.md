@@ -75,14 +75,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandan2909&theme=nord&no-frame=true&margin-w=8&row=1" alt="Trophies" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
