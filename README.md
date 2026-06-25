@@ -37,7 +37,7 @@ portfolio:  https://www.chandanpathak.dev
 currently:  Building full-stack web & mobile applications
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
@@ -69,7 +69,7 @@ currently:  Building full-stack web & mobile applications
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🚀 Featured Projects
 
@@ -86,7 +86,7 @@ currently:  Building full-stack web & mobile applications
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -99,7 +99,7 @@ currently:  Building full-stack web & mobile applications
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan2909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 📈 Contribution Graph
 
@@ -107,7 +107,7 @@ currently:  Building full-stack web & mobile applications
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan2909&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🐍 Contribution Snake
 
@@ -119,7 +119,7 @@ currently:  Building full-stack web & mobile applications
   </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <div align="center">
 
