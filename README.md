@@ -119,7 +119,6 @@ currently:  Building full-stack web & mobile applications
   </picture>
 </div>
 
-> ⚙️ **To enable the snake animation**, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
 > ```yaml
 > name: Generate Snake
 > on:
