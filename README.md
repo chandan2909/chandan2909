@@ -118,15 +118,6 @@ currently:  Building full-stack web & mobile applications
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandan2909/chandan2909/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandan2909/chandan2909/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/chandan2909/chandan2909/output/github-snake-dark.svg" />
-  </picture>
-</div>
 
 > ⚙️ **To enable the snake animation**, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
 > ```yaml
