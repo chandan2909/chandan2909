@@ -16,16 +16,13 @@
 <br/>
 
 <!-- Animated separator -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=6&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 </div>
 
 <a name="about-me"></a>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
-
-<!-- Subtle animated badge under About Me -->
-<img src="https://capsule-render.vercel.app/api?type=sep&color=0:0f172a,50:1a2540,100:0f172a&height=26&animation=twinkling" width="100%" />
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 ```yaml
 name:       Chandan Pathak
@@ -37,21 +34,11 @@ portfolio:  https://www.chandanpathak.dev
 currently:  Building full-stack web & mobile applications
 ```
 
-<!-- animated icon row -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120" alt="coding animation" />
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="120" alt="sparkle" />
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="120" alt="rocket" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=6&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 <a name="tech-stack"></a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
-
-<!-- animated gradient banner -->
-<img src="https://capsule-render.vercel.app/api?type=blob&color=0:0f172a,50:1a2540,100:0f172a&height=80&animation=twinkling" width="100%" />
 
 <div align="center">
 
@@ -62,9 +49,6 @@ currently:  Building full-stack web & mobile applications
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<!-- small animated icon -->
-<img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="36" />
 
 ### 🧩 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -84,16 +68,11 @@ currently:  Building full-stack web & mobile applications
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=6&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=3&animation=blinking" width="100%" />
 
 <a name="featured-projects"></a>
 
 ## 🚀 Featured Projects
-
-<!-- animated project header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2540,50:243b66,100:1a2540&height=80&section=header&text=Featured%20Projects&fontSize=26&fontColor=E8EBF2&animation=twinkling" />
-</div>
 
 <div align="center">
 
@@ -108,11 +87,10 @@ currently:  Building full-stack web & mobile applications
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=6&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=3&animation=blinking" width="100%" />
 
 ## 📊 GitHub Stats
 
-<!-- animated stats container -->
 <div align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=chandan2909&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
   <img width="49%" src="https://streak-stats.demolab.com?user=chandan2909&theme=tokyonight&background=0D1117" />
@@ -122,17 +100,15 @@ currently:  Building full-stack web & mobile applications
   <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chandan2909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=6&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=3&animation=blinking" width="100%" />
 
 ## 📈 Contribution Graph
 
-<!-- animated graph header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f172a,50:1a2540,100:0f172a&height=80&section=header&text=Contributions&fontSize=20&fontColor=E8EBF2&animation=twinkling" width="100%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan2909&theme=github-dark&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=22c55e" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=6&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=3&animation=blinking" width="100%" />
 
 ## 🐍 Contribution Snake
 
@@ -154,7 +130,7 @@ currently:  Building full-stack web & mobile applications
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=6&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=3&animation=blinking" width="100%" />
 
 <div align="center">
 
