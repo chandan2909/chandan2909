@@ -1,36 +1,24 @@
 <div align="center">
 
-<!-- Nav-style badge row -->
-<a href="#about-me"><img src="https://img.shields.io/badge/HOME-1A2540?style=for-the-badge&logoColor=E8EBF2" /></a>
-<a href="#about-me"><img src="https://img.shields.io/badge/ABOUT-1A2540?style=for-the-badge&logoColor=E8EBF2" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/SKILLS-1A2540?style=for-the-badge&logoColor=E8EBF2" /></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-1A2540?style=for-the-badge&logoColor=E8EBF2" /></a>
-<a href="mailto:vijaypathakssa3@gmail.com"><img src="https://img.shields.io/badge/CONTACT-1A2540?style=for-the-badge&logoColor=E8EBF2" /></a>
+<!-- Animated title banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1a2540,100:0f172a&height=180&section=header&text=Chandan%20Pathak&fontSize=58&fontColor=E8EBF2&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Computer%20Science%20Graduate&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-<br/><br/>
-
-<!-- Big bold name banner, navy background -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=170&section=header&text=Chandan%20Pathak&fontSize=58&fontColor=E8EBF2&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Computer%20Science%20Graduate&descSize=18&descAlignY=70" width="100%" />
-
-<!-- Typing animation, navy-matched -->
+<!-- Typing animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FA3C8&background=0F172A00&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Chandan+Pathak;Full-Stack+Web+%26+Mobile+Developer;I+love+building+clean+and+scalable+applications" alt="Typing animation" />
 
-<br/><br/>
+<br/>
 
 <!-- Social badges -->
-<a href="https://www.chandanpathak.dev" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-1A2540?style=for-the-badge&logoColor=E8EBF2" />
-</a>
-<a href="https://linkedin.com/in/chandanpathak291" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-1A2540?style=for-the-badge&logo=linkedin&logoColor=E8EBF2" />
-</a>
-<a href="mailto:vijaypathakssa3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1A2540?style=for-the-badge&logo=gmail&logoColor=E8EBF2" />
-</a>
+<a href="https://www.chandanpathak.dev" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-1A2540?style=for-the-badge&logoColor=E8EBF2" /></a>
+<a href="https://linkedin.com/in/chandanpathak291" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1A2540?style=for-the-badge&logo=linkedin&logoColor=E8EBF2" /></a>
+<a href="mailto:vijaypathakssa3@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A2540?style=for-the-badge&logo=gmail&logoColor=E8EBF2" /></a>
+
+<br/>
+
+<!-- Animated separator -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3" width="100%" />
 
 <a name="about-me"></a>
 
@@ -46,7 +34,7 @@ portfolio:  https://www.chandanpathak.dev
 currently:  Building full-stack web & mobile applications
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 <a name="tech-stack"></a>
 
@@ -80,7 +68,7 @@ currently:  Building full-stack web & mobile applications
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 <a name="featured-projects"></a>
 
@@ -99,7 +87,7 @@ currently:  Building full-stack web & mobile applications
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -112,7 +100,7 @@ currently:  Building full-stack web & mobile applications
   <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chandan2909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 ## 📈 Contribution Graph
 
@@ -120,7 +108,7 @@ currently:  Building full-stack web & mobile applications
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan2909&theme=github-dark&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=22c55e" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 ## 🐍 Contribution Snake
 
@@ -142,8 +130,7 @@ currently:  Building full-stack web & mobile applications
 
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 <div align="center">
 
