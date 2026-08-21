@@ -1,10 +1,10 @@
 <div align="center">
  
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chandan%20Pathak&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CS%20Post%20Graduate&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chandan%20Pathak&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=...>
  
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Chandan+Pathak+%F0%9F%91%8B;Full-Stack+Web+Developer;Java+%26+Spring+Boot+Enthusiast;React+%26+Flutter+Builder;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Chandan+Pathak+%F0%9F%91%8...>
 <br/>
 <!-- Social badges animated on hover -->
 <a href="https://www.chandanpathak.dev" target="_blank">
@@ -63,6 +63,7 @@ currently:  Building full-stack web & mobile applications
 ## 🚀 Featured Projects
  
 <div align="center">
+
 | 🌟 Project | 📝 Description | 🔧 Tech |
 |:---:|:---|:---:|
 | [**🖥️ Portfolio**](https://github.com/chandan2909/portfolio) | Personal portfolio website — clean, visually appealing and smoothly animated showcase of skills & projects | `HTML` `CSS` `JS` |
@@ -101,6 +102,7 @@ currently:  Building full-stack web & mobile applications
   </picture>
 </div>
 <div align="center">
+
 | 🟩 Light squares | 🟦 Dark squares | ⬛ Empty squares |
 |:---:|:---:|:---:|
 | Low activity days | High activity days | No contributions |
