@@ -117,7 +117,7 @@ currently:  Building full-stack web & mobile applications
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/8FA3C8/chandan2909" width="100%" />
+  <img src="https://ghchart.rshah.org/1A2540/chandan2909" width="100%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3" width="100%" />
