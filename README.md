@@ -105,7 +105,7 @@ currently:  Building full-stack web & mobile applications
 
 <div align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=chandan2909&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=chandan2909&theme=tokyonight&background=0D1117" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=chandan2909&theme=tokyonight&background=0D1117" />
 </div>
 
 <div align="center">
@@ -117,7 +117,7 @@ currently:  Building full-stack web & mobile applications
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan2909&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" />
+  <img src="https://ghchart.rshah.org/7AA2F7/chandan2909" width="100%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3" width="100%" />
