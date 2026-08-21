@@ -117,7 +117,7 @@ currently:  Building full-stack web & mobile applications
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan2909&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan2909&theme=github-dark&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=22c55e" width="100%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3" width="100%" />
