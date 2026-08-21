@@ -10,10 +10,10 @@
 <br/><br/>
 
 <!-- Big bold name banner, navy background -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=170&section=header&text=Chandan%20Pathak&fontSize=58&fontColor=E8EBF2&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20CS%20Post%20Graduate&descAlignY=68&descSize=16&descColor=8FA3C8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=170&section=header&text=Chandan%20Pathak&fontSize=58&fontColor=E8EBF2&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20CS%20Postgraduate%20%7C%20Open%20Source%20Enthusiast" />
 
 <!-- Typing animation, navy-matched -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FA3C8&background=0F172A00&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Chandan+Pathak+%F0%9F%91%8B;Full-Stack+Web+Developer;Java+%26+Spring+Boot+Enthusiast;React+%26+Flutter+Builder;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FA3C8&background=0F172A00&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Chandan+Pathak;Full-Stack+Web+%26+Mobile+Developer;Building+clean%2C+scalable+experiences" />
 
 <br/><br/>
 
@@ -117,7 +117,7 @@ currently:  Building full-stack web & mobile applications
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/7AA2F7/chandan2909" width="100%" />
+  <img src="https://ghchart.rshah.org/1A2540/chandan2909" width="100%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3" width="100%" />
