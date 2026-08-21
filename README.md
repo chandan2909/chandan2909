@@ -10,10 +10,10 @@
 <br/><br/>
 
 <!-- Big bold name banner, navy background -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=170&section=header&text=Chandan%20Pathak&fontSize=58&fontColor=E8EBF2&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20CS%20Postgraduate%20%7C%20Open%20Source%20Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=170&section=header&text=Chandan%20Pathak&fontSize=58&fontColor=E8EBF2&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Computer%20Science%20Graduate&descSize=18&descAlignY=70" width="100%" />
 
 <!-- Typing animation, navy-matched -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FA3C8&background=0F172A00&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Chandan+Pathak;Full-Stack+Web+%26+Mobile+Developer;Building+clean%2C+scalable+experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FA3C8&background=0F172A00&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Chandan+Pathak;Full-Stack+Web+%26+Mobile+Developer;I+love+building+clean+and+scalable+applications" alt="Typing animation" />
 
 <br/><br/>
 
@@ -90,7 +90,7 @@ currently:  Building full-stack web & mobile applications
 
 | 🌟 Project | 📝 Description | 🔧 Tech |
 |:---:|:---|:---:|
-| [**🖥️ Portfolio**](https://github.com/chandan2909/portfolio) | Personal portfolio website — clean, visually appealing and smoothly animated showcase of skills & projects | `HTML` `CSS` `JS` |
+| [**🖥️ Portfolio**](https://github.com/chandan2909/portfolio) | Personal portfolio website — clean, visually appealing and smoothly animated showcase of skills & projects | `HTML` `CSS` `JavaScript` |
 | [**📚 LMS Frontend**](https://github.com/chandan2909/lms-frontend) | Modern single-page application for a Learning Management System | `React` `JavaScript` |
 
 <br/>
@@ -117,7 +117,7 @@ currently:  Building full-stack web & mobile applications
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/1A2540/chandan2909" width="100%" />
+  <img src="https://ghchart.rshah.org/0D1117/chandan2909" width="100%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3" width="100%" />
