@@ -30,7 +30,7 @@ location:   Noida, Uttar Pradesh, India 🇮🇳
 education:  Post Graduate in Computer Science & Engineering
 focus:      Full-Stack Web & Mobile Development
 interests:  [Clean Code, Scalable Systems, Open Source]
-portfolio:  https://www.chandanpathak.dev
+portfolio:  https://www.chandanpathak.me
 currently:  Building full-stack web & mobile applications
 ```
 
