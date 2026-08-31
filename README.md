@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated title banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1a2540,100:0f172a&height=180&section=header&text=Chandan%20Pathak&fontSize=58&fontColor=E8EBF2&fontAlignY=35&desc=Full-Stack%20Developer&descAlign=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1a2540,100:0f172a&height=180&section=header&text=Chandan%20Pathak&fontSize=58&fontColor=E8EBF2&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Web%20%26%20Mobile%20Apps&descAlignY=60&animation=fadeIn" width="100%" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FA3C8&background=0F172A00&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Chandan+Pathak;Building+clean+and+scalable+apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FA3C8&background=0F172A00&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Chandan+Pathak;Welcome+to+my+GitHub+profile!;Building+cool+things+with+React%2C+Spring+Boot+%26+Flutter" alt="Typing animation" />
 
 <br/>
 
@@ -68,7 +68,7 @@ currently:  Building full-stack web & mobile applications
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=3&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 <a name="featured-projects"></a>
 
@@ -87,7 +87,7 @@ currently:  Building full-stack web & mobile applications
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=3&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -100,15 +100,15 @@ currently:  Building full-stack web & mobile applications
   <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chandan2909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=3&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan2909&theme=github-dark&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=22c55e" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan2909&theme=github-compact&hide_border=true&area=true&custom_title=Chandan%20Pathak%27s%20Contribution%20Graph&v=2" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=3&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 ## 🐍 Contribution Snake
 
@@ -130,7 +130,7 @@ currently:  Building full-stack web & mobile applications
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A25440&height=3&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A2540&height=3&animation=blinking" width="100%" />
 
 <div align="center">
 
