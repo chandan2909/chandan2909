@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Social badges -->
-<a href="https://www.chandanpathak.dev" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-1A2540?style=for-the-badge&logoColor=E8EBF2" /></a>
+<a href="https://www.chandanpathak.me" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-1A2540?style=for-the-badge&logoColor=E8EBF2" /></a>
 <a href="https://linkedin.com/in/chandanpathak291" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1A2540?style=for-the-badge&logo=linkedin&logoColor=E8EBF2" /></a>
 <a href="mailto:vijaypathakssa3@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A25440?style=for-the-badge&logo=gmail&logoColor=E8EBF2" /></a>
 
