@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=180&section=header&text=Chandan%20Pathak&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=180&section=header&text=Chandan%20Pathak&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FA3C8&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer;React+%2B+Spring+Boot+%2B+Node.js;Building+modern+web+applications" alt="Typing animation" />
 
@@ -90,6 +90,6 @@ I am a full-stack developer interested in building clean, scalable, and user-fri
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer" width="100%" />
 
 </div>
