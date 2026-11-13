@@ -65,7 +65,7 @@ I am a full-stack developer interested in building clean, scalable, and user-fri
 
 <img src="https://img.shields.io/github/followers/chandan2909?style=for-the-badge&label=Followers&color=4F46E5" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/chandan2909?style=for-the-badge&label=Total%20Stars&color=4F46E5" alt="GitHub stars" />
-<img src="https://img.shields.io/github/commit-activity/y/chandan2909?style=for-the-badge&label=Commits%20This%20Year&color=4F46E5" alt="Yearly commit activity" />
+<img src="https://img.shields.io/github/last-commit/chandan2909/chandan2909?style=for-the-badge&label=Last%20Profile%20Update&color=4F46E5" alt="Last profile update" />
 <img src="https://img.shields.io/badge/Public%20Repositories-23-4F46E5?style=for-the-badge" alt="Public repositories" />
 
 </div>
