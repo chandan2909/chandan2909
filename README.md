@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1a2540,100:0f172a&height=180&section=header&text=Chandan%20Pathak&fontSize=58&fontColor=E8EBF2&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=180&section=header&text=Chandan%20Pathak&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FA3C8&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer;React+%2B+Spring+Boot+%2B+Node.js;Building+modern+web+applications" alt="Typing animation" />
 
 <a href="https://www.chandanpathak.me">
-  <img src="https://img.shields.io/badge/Portfolio-1A2540?style=for-the-badge" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-764BA2?style=for-the-badge" alt="Portfolio" />
 </a>
 <a href="https://github.com/chandan2909?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repositories-667EEA?style=for-the-badge&logo=github" alt="Repositories" />
 </a>
 
 </div>
@@ -78,6 +78,6 @@ I am a full-stack developer interested in building clean, scalable, and user-fri
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1a2540,100:0f172a&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%" />
 
 </div>
